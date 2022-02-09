@@ -2011,10 +2011,10 @@ a{
 
 @media only screen and (min-width: 730px) and (max-width: 2550px) {
  #menu{
-   right: 3rem;
+   right: 0rem;
  }
  #x-btn {
-  right: 3rem;
+  right: 0rem;
  }
  body{
    /* overflow: hidden; */
@@ -2028,10 +2028,10 @@ a{
 {
     /* iPad landscape style here */
     #menu{
-      right: 6rem;
+      right: 3rem;
     }
     #x-btn {
-     right: 6rem;
+     right: 3rem;
     }  
 }
 @media only screen
@@ -2041,9 +2041,9 @@ a{
 {
     /* iPad portrait style here */
     #menu{
-      right: 6rem;
+      right: 3rem;
     }
     #x-btn {
-     right: 6rem;
+     right: 3rem;
     } 
 }
